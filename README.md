@@ -1,0 +1,1 @@
+# schulzimmer-wetterstation-TTN
